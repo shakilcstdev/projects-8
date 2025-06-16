@@ -61,7 +61,7 @@ const PageNotFound = () => {
               href="mailto:rijoanmaruf@gmail.com" 
               className="text-[#0EA106] hover:underline"
             >
-              rijoanmaruf@gmail.com
+              shakil.com
             </a>
           </div>
         </div>

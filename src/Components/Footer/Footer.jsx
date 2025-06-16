@@ -57,7 +57,7 @@ https://www.facebook.com/share/19WmakrLJU/">
           </p>
           <p className="font-semibold text-gray-300">
             Developed by{" "}
-            <a className="underline" href="https://rijoan.com">
+            <a className="underline" href="shakil">
               Md Shakil Ahamed
             </a>
           </p>
