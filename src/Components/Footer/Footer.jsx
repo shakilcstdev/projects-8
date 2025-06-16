@@ -58,7 +58,7 @@ const Footer = () => {
           <p className="font-semibold text-gray-300">
             Developed by{" "}
             <a className="underline" href="https://rijoan.com">
-              Md Rijoan Maruf
+              Md Shakil Ahamed
             </a>
           </p>
         </aside>
