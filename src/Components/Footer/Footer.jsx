@@ -34,9 +34,7 @@ const Footer = () => {
 
         <nav>
           <div className="flex gap-4">
-            <a href="13:57
-You sent
-https://www.facebook.com/share/19WmakrLJU/">
+            <a href="https://www.facebook.com/share/19WmakrLJU/">
               <FaFacebook size={20} />
             </a>
             <a href="https://github.com/shakilcstdev">
