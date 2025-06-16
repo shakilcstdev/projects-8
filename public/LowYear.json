@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Amina Rahman",
+    "years_of_exp": 1,
+    "type": "Criminal Lawyer",
+    "available_days": ["Sunday", "Tuesday", "Thursday"],
+    "consultation_fee": 8000,
+    "image_link": "https://i.pinimg.com/736x/aa/65/66/aa6566aaacd80d2da2e7496c7ee8d637.jpg",
+    "license_number": "BD-001",
+    "etc": {
+      "degrees": "LLB, LLM in Criminal Law",
+      "location": "Dhaka",
+      "specialization": "White Collar Crimes"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Arifur Rahman Reyad",
+    "years_of_exp": 2,
+    "type": "Corporate Lawyer",
+    "available_days": ["Monday", "Wednesday"],
+    "consultation_fee": 12000,
+    "image_link": "https://i.ibb.co.com/Gwxy3Xs/Screenshot-2025-04-26-195644.png",
+    "license_number": "BD-002",
+    "etc": {
+      "degrees": "LLB, MBA",
+      "location": "Chittagong",
+      "specialization": "Mergers & Acquisitions"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Farzana Kabir",
+    "years_of_exp": 3,
+    "type": "Family Lawyer",
+    "available_days": ["Saturday", "Monday", "Thursday"],
+    "consultation_fee": 10000,
+    "image_link": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "license_number": "BD-003",
+    "etc": {
+      "degrees": "LLB, PhD in Family Law",
+      "location": "Sylhet",
+      "specialization": "Divorce Cases"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Tanvir Alam",
+    "years_of_exp": 1,
+    "type": "Immigration Lawyer",
+    "available_days": ["Sunday", "Wednesday"],
+    "consultation_fee": 7000,
+    "image_link": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg",
+    "license_number": "BD-004",
+    "etc": {
+      "degrees": "LLB, Diploma in International Law",
+      "location": "Khulna",
+      "specialization": "Visa Applications"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Sohana Ahmed",
+    "years_of_exp": 2,
+    "type": "Intellectual Property Lawyer",
+    "available_days": ["Tuesday", "Thursday"],
+    "consultation_fee": 15000,
+    "image_link": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80",
+    "license_number": "BD-005",
+    "etc": {
+      "degrees": "LLB, LLM in IP Law",
+      "location": "Dhaka",
+      "specialization": "Patent Law"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Nazmul Huda",
+    "years_of_exp": 0,
+    "type": "Civil Rights Lawyer",
+    "available_days": ["Monday", "Friday"],
+    "consultation_fee": 5000,
+    "image_link": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg",
+    "license_number": "BD-006",
+    "etc": {
+      "degrees": "LLB",
+      "location": "Rajshahi",
+      "specialization": "Human Rights Cases"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Jannatul Nayeem",
+    "years_of_exp": 3,
+    "type": "Tax Lawyer",
+    "available_days": ["Sunday", "Tuesday", "Friday"],
+    "consultation_fee": 13000,
+    "image_link": "https://img.freepik.com/premium-photo/young-confident-handsome-young-man-full-suit-looking-camera-keeping-arms-crossed-while-standing-against-grey-background_425904-39500.jpg?semt=ais_hybrid&w=740",
+    "license_number": "BD-007",
+    "etc": {
+      "degrees": "LLB, ACCA",
+      "location": "Dhaka",
+      "specialization": "Corporate Taxation"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Saiful Islam",
+    "years_of_exp": 1,
+    "type": "Real Estate Lawyer",
+    "available_days": ["Wednesday", "Thursday"],
+    "consultation_fee": 9000,
+    "image_link": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg",
+    "license_number": "BD-008",
+    "etc": {
+      "degrees": "LLB",
+      "location": "Barisal",
+      "specialization": "Property Disputes"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Mouri Sultana",
+    "years_of_exp": 2,
+    "type": "Marriage Lawyer",
+    "available_days": ["Saturday", "Tuesday"],
+    "consultation_fee": 11000,
+    "image_link": "https://img.freepik.com/premium-photo/professional-business-woman-with-arms-folded_961875-355191.jpg",
+    "license_number": "BD-009",
+    "etc": {
+      "degrees": "LLB, PhD in Family Law",
+      "location": "Comilla",
+      "specialization": "Prenuptial Agreements"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Rakibul Hasan",
+    "years_of_exp": 3,
+    "type": "Cyber Law Expert",
+    "available_days": ["Monday", "Wednesday", "Friday"],
+    "consultation_fee": 14000,
+    "image_link": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg",
+    "license_number": "BD-010",
+    "etc": {
+      "degrees": "LLB, MSc in Cybersecurity",
+      "location": "Dhaka",
+      "specialization": "Data Privacy"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Afia Tanjin",
+    "years_of_exp": 2,
+    "type": "Labor Lawyer",
+    "available_days": ["Sunday", "Thursday"],
+    "consultation_fee": 7500,
+    "image_link": "https://img.freepik.com/photos-gratuite/femme-affaires-posant_23-2148142829.jpg",
+    "license_number": "BD-011",
+    "etc": {
+      "degrees": "LLB",
+      "location": "Rangpur",
+      "specialization": "Workplace Discrimination"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Mahmudul Karim",
+    "years_of_exp": 1,
+    "type": "Environmental Lawyer",
+    "available_days": ["Saturday", "Tuesday"],
+    "consultation_fee": 6000,
+    "image_link": "https://img.freepik.com/free-photo/brunette-business-woman-with-wavy-long-hair-blue-eyes-stands-holding-notebook-hands_197531-343.jpg?semt=ais_hybrid&w=740",
+    "license_number": "BD-012",
+    "etc": {
+      "degrees": "LLB, MSc in Environmental Science",
+      "location": "Mymensingh",
+      "specialization": "Climate Change Legislation"
+    }
+  }
+]
