@@ -45,9 +45,7 @@ https://www.facebook.com/share/19WmakrLJU/">
             <a href="https://www.linkedin.com/in/shakildv/">
               <FaLinkedin size={20} />
             </a>
-            <a href="https://www.instagram.com/rijoanmaruf/">
-              <FaInstagram size={20} />
-            </a>
+           
           </div>
         </nav>
 
