@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router';
 import notFoundImage from '../assets/404.png';
-import Navbar from '../components/Header/Navber';
+import Navbar from "../Components/Header/Navbar";   // সঠিক
 // import Navbar from '../Components/Header/Navber';
 
 const PageNotFound = () => {
